@@ -51,9 +51,6 @@ export default (opts) => {
 
             killPopover();
 
-            _document = _undefined;
-            _window = _undefined;
-
             return destroyed = true;
         }
     };

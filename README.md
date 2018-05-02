@@ -1,3 +1,5 @@
+Forked from [https://github.com/anythingcodes/highlight-share](https://github.com/anythingcodes/highlight-share)
+
 highlight-share
 ==========
 
